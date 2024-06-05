@@ -13,7 +13,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
-    "json-server": "^1.0.0-beta.1",
     "server": "^1.0.39"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.1"
   }
 }
